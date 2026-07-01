@@ -79,7 +79,7 @@ Java Developer | DSA Enthusiast | Web Developer
 
 💼 LinkedIn: *(Add your LinkedIn Profile Link Here)*
 
-🧩 LeetCode: *(Add your LeetCode Profile Link Here)*
+🧩 LeetCode: https://leetcode.com/u/Bineetsingh865/
 
 ---
 
