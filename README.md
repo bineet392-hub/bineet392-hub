@@ -1,16 +1,86 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bineet Kumar Singh</h1>
 
-<!--
-**bineet392-hub/bineet392-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Java Developer | DSA Enthusiast | Web Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Java+Developer;DSA+Enthusiast;Full+Stack+Web+Developer;Open+to+Internships" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE Student
+- ☕ Learning Java & Data Structures
+- 🌐 Learning Full Stack Web Development
+- 🚀 Preparing for Software Engineering Placements
+- 💡 Passionate about Problem Solving
+- 📚 Solving LeetCode Problems Daily
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,html,css,js" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=bineet392-hub&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=bineet392-hub&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bineet392-hub&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=bineet392&theme=tokyonight&margin-w=10)
+
+---
+
+## 🌱 Currently Learning
+
+- Java
+- Data Structures & Algorithms
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+## 🎯 Goals
+
+- ✅ Solve 300+ LeetCode Problems
+- ✅ Build Real-World Projects
+- ✅ Learn Full Stack Development
+- ✅ Crack Product-Based Company Placements
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **bineet392@gmail.com**
+
+💼 LinkedIn: *(Add your LinkedIn Profile Link Here)*
+
+🧩 LeetCode: *(Add your LeetCode Profile Link Here)*
+
+---
+
+⭐ Thanks for visiting my profile!
