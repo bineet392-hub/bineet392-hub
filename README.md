@@ -25,16 +25,49 @@ Java Developer | DSA Enthusiast | Web Developer
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,c,html,css,js" />
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br><b>Java</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=c" width="55"/><br><b>C</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br><b>HTML5</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br><b>CSS3</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br><b>JavaScript</b>
+</td>
+</tr>
+</table>
+
+---
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br><b>Git</b>
+</td>
 
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br><b>GitHub</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br><b>VS Code</b>
+</td>
+</tr>
+</table>
 ---
 
 ## 📊 GitHub Stats
